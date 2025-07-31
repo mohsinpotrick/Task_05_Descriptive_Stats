@@ -147,8 +147,15 @@ Even with inadequate facts, the LLM showed strong thinking in the judgment-based
 All things considered, the LLM demonstrated contextual awareness and domain-relevant insight in addition to handling explicit data effectively, making it a promising tool for enhancing sports analytics and decision-making.
 
 
+### Visualization by ChatGPT
+
+1. Top Goal Scorers
+
+![Chart](https://github.com/user-attachments/assets/2ed9fa45-24ba-47cc-b800-4432d2966b28)
 
 
-```python
 
-```
+
+2. Syracuse Vs Opponents (Goals, Shots, Assists)
+
+<img width="3000" height="1800" alt="chart1_stacked_bar" src="https://github.com/user-attachments/assets/53ae3968-ca62-4100-8372-8c3b68b052ef" />
