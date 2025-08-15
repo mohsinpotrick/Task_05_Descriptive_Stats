@@ -1,5 +1,5 @@
 # Syracuse Women’s Lacrosse Data Analysis (2023–2024)
-A thorough statistical analysis of the Syracuse Women's Lacrosse team for the 2023–2024 campaign can be found in this repository. Player statistics, team performance patterns, data visualization and analytics are all included.
+A thorough statistical analysis of the Syracuse Women's Lacrosse team for the 2023–2024 campaign can be found in this repository. Player statistics, team performance patterns, data visualization and analytics are all included. LLMs like Perplexity and Claude, were also used to perform the test and determine the approach of the solution along with the python script and ChatGPT.
 
 Link to Dataset: https://cuse.com/documents/2025/2/10/2025SUStats.pdf
 
@@ -7,6 +7,7 @@ Link to Dataset: https://cuse.com/documents/2025/2/10/2025SUStats.pdf
 
 - Python script for basic statistical analysis
 -  LLMPromptEvaluation.md for prompts and its answers with evaluation sections.
+-  LLMPromptEvaluation_Perplexity_Claude.md for prompts from Claude and Perplexity, and its answers with evaluation sections.
 
 ## Key Analyses
 
