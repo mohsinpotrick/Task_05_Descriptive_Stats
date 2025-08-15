@@ -204,6 +204,23 @@ This addresses the team's biggest weaknesses: possession and late-game defense.
 Evaluation: The response was similar to that of ChatGPT. Positional and skill-based needs can be effectively assessed with narrow losses and possession measures.Claude gave a detailed approach and focussed on key nitty-gritties.
 
 
+#### Visualizations by Claude:
+
+<img width="628" height="500" alt="image" src="https://github.com/user-attachments/assets/2ed6f53b-be9c-47f3-ba1c-76968d4ac68d" />
+
+<img width="628" height="500" alt="image" src="https://github.com/user-attachments/assets/bcb2cd3e-05e8-4793-ad15-bb1083207c35" />
+
+<img width="628" height="500" alt="image" src="https://github.com/user-attachments/assets/307264e1-8d35-4eb9-b6b3-f511ca865127" />
+
+<img width="628" height="500" alt="image" src="https://github.com/user-attachments/assets/956e4c5b-0a99-4685-9188-21de5d283b04" />
+
+
+#### Visulaizations by Perplexity
+
+Perplexity was unable to create visualizations. It requires a premium version to be able to create visuals.
+
+
+
 #### Summary
 
 Factual, analytical, judgment-based, and strategic concerns were the four main topics of the analysis. In response to factual inquiries, the models produced accurate totals, averages, and player statistics, demonstrating its proficiency in acquiring and understanding numerical and categorical data. It accurately applied formulas and carried out statistical comparisons for analytical prompts, such as figuring out shot accuracy and identifying top performers using calculated averages.
